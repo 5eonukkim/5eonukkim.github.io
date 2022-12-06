@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 excerpt: 주부산일본국총영사관 서포터즈 7기 - 3편 한국대학생 일본어 디베이트대회
-date: 2022-10-18
+date: 2022-12-06
 tags:
   - languages:Korean
   - tags:Consulate-General of Japan in Busan

@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 toc_label: "Contents"
 excerpt: 주부산일본국총영사관 서포터즈 7기 - 4편 고교생 일본퀴즈대회
-date: 2022-01-11
+date: 2023-01-11
 tags:
   - languages:Korean
   - tags:Consulate-General of Japan in Busan

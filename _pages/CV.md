@@ -66,7 +66,7 @@ Extra-Curricular
 {% capture notice %}
 __Supporters of Consulate‑General of Japan in Busan__ `Aug. 2022 - Present`
   * Undergraduate Student Ambassador for Promotion of Korea-Japan Relations
-  * Invitation to Japan at Consulate-General of Japan in [*JENESYS*](https://www.busan.kr.emb-japan.go.jp/itpr_ko/00_000457.html) in January (Planned)
+  * Invitation to Japan at Consulate-General of Japan in [*JENESYS*](https://www.busan.kr.emb-japan.go.jp/itpr_ko/00_000457.html) in January
 
 __HeXA (Hacker’s eXciting Academy), UNIST Programming and Security Society__ `Sep. 2020 - Present`
   * __President__ `Aug. 2022 - Present` / Executive Member `Mar. 2021 - Aug. 2022`
